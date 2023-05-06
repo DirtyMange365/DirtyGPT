@@ -1,2 +1,4 @@
 # DirtyGPT
-The Open Model.
+The DirtyGPT.
+It is Open,Open,Open!
+It is Model.
